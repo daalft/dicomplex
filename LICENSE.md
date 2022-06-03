@@ -7,6 +7,6 @@ If you use this data, please cite the following paper:
   author={Alfter, David and Cardon, R{'e}mi and Fran{\cc}ois, Thomas},
   year={2022},
   booktitle={Proceedings of the 2nd Workshop on Tools and Resources for People with REAding DIfficulties (READI)},
-  pages={}
+  pages={17-24}
 }
 ```
